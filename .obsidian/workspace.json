@@ -1,0 +1,164 @@
+{
+  "main": {
+    "id": "75a7a0a9d77346c3",
+    "type": "split",
+    "children": [
+      {
+        "id": "b938a1f30829802d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cf6cf28af22cdb3b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "temporary/hoisting.md.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "9fb7073160bff1b4",
+    "type": "split",
+    "children": [
+      {
+        "id": "4b8a406273d23ddb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7a500bd2012c52f2",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "8924573514cbac88",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "1677dec81ffd376f",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "a79af3fa43a5f34f",
+    "type": "split",
+    "children": [
+      {
+        "id": "71f819044828bce9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9c6491dcdf959e89",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "temporary/hoisting.md.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "21b78c10f0a40a19",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "temporary/hoisting.md.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d85c338a807f83cd",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "a56ee4f3cdc34977",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "temporary/hoisting.md.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "cf6cf28af22cdb3b",
+  "lastOpenFiles": [
+    "hubs/javascript.md.md",
+    "temporary/hoisting.md.md",
+    "Untitled",
+    "temporary",
+    "zettels",
+    "hubs",
+    "Module1/Git.md",
+    "Module1/JS roadmap/Hoisting.md",
+    "Untitled.md",
+    "Module1/JS roadmap/Untitled",
+    "Module1/JS roadmap",
+    "Module1"
+  ]
+}
