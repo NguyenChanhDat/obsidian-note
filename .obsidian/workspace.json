@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "30e426bc49207526",
+        "id": "65915faf5a7aef8c",
         "type": "tabs",
         "children": [
           {
-            "id": "a00054494f6a794f",
+            "id": "879dee16aba5237b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "hubs/map.md.md",
+                "file": "inbox/JS/202410021606_js_constructor_perfomance_problem.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "hubs/map.md.md",
+                "file": "inbox/JS/202410021606_js_constructor_perfomance_problem.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "hubs/map.md.md",
+                "file": "inbox/JS/202410021606_js_constructor_perfomance_problem.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "hubs/map.md.md"
+                "file": "inbox/JS/202410021606_js_constructor_perfomance_problem.md"
               }
             }
           }
@@ -147,36 +147,36 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "a00054494f6a794f",
+  "active": "879dee16aba5237b",
   "lastOpenFiles": [
-    "zettels/JS/prototype/202410021518_precedence.md.md",
+    "inbox/JS/202410021635_prototype_definition.md",
+    "inbox/JS/202410021606_js_constructor_perfomance_problem.md",
+    "inbox/JS/202410021638_how_object_detect_prototype.md",
+    "inbox/JS/202410021646_create_object_with_prototype.md",
+    "inbox/JS/202410030826_when_use_prototype.md",
+    "inbox/JS/202410030858_prototype_property_Date.md",
+    "inbox/JS/202410031003_power_of_prototype.md",
+    "inbox/JS/202410031133_when_to_use_symbol.md",
+    "inbox/JS/202410031419_symbol_usage.md.md",
+    "inbox/JS/202410040001_symbol_are_NOT_100_hidden.md.md",
+    "inbox/JS/202410031125_symbol_definition.md.md",
+    "inbox/JS/202410032330_for_in_ignore_symbol_key.md.md",
+    "inbox/JS/202410032341_global_symbol_syntax.md.md",
+    "inbox/JS/202410032346_global_symbol_definition.md.md",
+    "inbox/JS/202410031305_symbol_registry_fictious_concept.md.md",
+    "hubs/symbol_datatype.md.md",
+    "hubs/security.md.md",
+    "inbox/JS/202410031024_class_is_just_constructor_func.md.md",
+    "inbox/JS/202410031108_map_over_object_security.md.md",
+    "inbox/JS/202410031139_symbol.md",
+    "hubs/constructor.md",
+    "inbox/JS/202410031100_square_bracket_grants_access_risk.md",
     "hubs/map.md.md",
+    "zettels/JS/prototype/202410021518_precedence.md.md",
     "zettels/JS/prototype/202410030850_property_prototype_of_a_function.md",
     "zettels/JS/prototype/202410030902_prototype_in_constructor.md.md",
-    "zettels/JS/hoisting/202410022205_temporal_dead_zone(TDZ)_definition.md.md",
-    "zettels/JS/hoisting/202410022244_import_hoist.md",
-    "zettels/JS/hoisting/202410021445_hoisting_definition.md.md",
     "zettels/JS/prototype",
     "zettels/JS/hoisting",
-    "hubs/js_prototype.md.md",
-    "inbox/JS/202410031024_class_is_just_constructor_func.md.md",
-    "hubs/class.md.md",
-    "inbox/JS/202410031003_power_of_prototype.md",
-    "inbox/JS/202410021557_js_constructor_definition.md.md",
-    "inbox/JS/202410021606_js_constructor_perfomance_problem.md",
-    "zettels/JS/hoisting/202410021511_hoisting_function.md.md",
-    "zettels/JS/hoisting/202410021456_hoisting_variable_var.md.md",
-    "zettels/JS/hoisting/202410021455_hoisting_global.md.md",
-    "hubs/hoist.md.md",
-    "inbox/JS/202410030934_this_in_function_in_inheriting.md.md",
-    "hubs/this.md.md",
-    "inbox/JS/202410030931_inheriting_method.md",
-    "hubs/inheritance.md.md",
-    "inbox/JS/202410030925_property_shadow.md",
-    "inbox/JS/202410030858_prototype_property_Date.md",
-    "proper.md",
-    "inbox/JS/202410030826_when_use_prototype.md",
-    "inbox/JS/202410021646_create_object_with_prototype.md",
     "zettels/JS",
     "inbox/JS",
     "Untitled",
