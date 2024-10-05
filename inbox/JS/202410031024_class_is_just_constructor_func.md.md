@@ -3,7 +3,7 @@
 
 ##### id: 202410031024_class_is_just_constructor_func
 
-##### hubs: [[javascript.md]], [[constructor]], [[class.md]], [[inheritance.md]]
+##### hubs: [[javascript.md]], [[constructor.md]], [[class.md]], [[inheritance.md]]
 ##### source:https://developer.mozilla.org/en-US/docs/Web/JavaScript/Inheritance_and_the_prototype_chain
 
 

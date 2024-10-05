@@ -2,7 +2,7 @@
 
 
 ##### id: 202410030902_prototype_in_constructor
-##### hubs: [[javascript.md]], [[constructor]], [[js_prototype.md]]
+##### hubs: [[javascript.md]], [[constructor.md]], [[js_prototype.md]]
 ##### source: https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/Object_prototypes
 
 

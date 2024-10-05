@@ -1,7 +1,7 @@
 Properties:
 
 id: 202410021606
-hubs: [[constructor]], [[javascript.md]]
+hubs: [[constructor.md]], [[javascript.md]]
 source:
 
 Content:

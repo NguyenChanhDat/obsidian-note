@@ -1,3 +1,4 @@
+#hoisting
 ### Properties:
 
 
@@ -8,7 +9,7 @@
 
 ### Content:
 
-function declaration allow hoist [[hoist.md]]:
+function declaration allow hoist [[hoist.md]], [[202410021445_hoisting_definition.md]]:
 ```
 hoisted(); // Output: "This function has been hoisted."
 
