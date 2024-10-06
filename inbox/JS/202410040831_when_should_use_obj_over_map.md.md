@@ -11,3 +11,5 @@
 For optimize 
 Don't want to iterate over obj's props at all
 order of props doesn't matter
+
+for simplicity :))))

@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "8b05cc7adaea5827",
+        "id": "c9a5d05f1c4eba6c",
         "type": "tabs",
         "children": [
           {
-            "id": "fe81e1f6cd54ff00",
+            "id": "ca771644a1e2020d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "inbox/JS/202410060018_try_catch_finally_return.md.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -48,7 +44,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#hoisting",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "inbox/JS/202410060018_try_catch_finally_return.md.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "inbox/JS/202410060018_try_catch_finally_return.md.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "inbox/JS/202410060018_try_catch_finally_return.md.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -147,34 +139,34 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "fe81e1f6cd54ff00",
+  "active": "ca771644a1e2020d",
   "lastOpenFiles": [
-    "inbox/JS/202410060011_try_catch_variable_local.md.md",
-    "inbox/JS/202410060018_try_catch_finally_return.md.md",
-    "inbox/JS/202410040926_variable_block_scope.md.md",
-    "inbox/JS/202410052208_try_catch_synchronously.md.md",
-    "inbox/JS/202410052127_nullish_coalescing_operator.md.md",
-    "inbox/JS/202410052341_try_rethrow_technique.md.md",
-    "hubs/asynchronous.md.md",
+    "inbox/JS/202410070013_closure_use_case.md",
+    "inbox/JS/202410061918_lexical_env_garbage_collector.md",
+    "inbox/JS/202410041138_obj_in_dataStructure_garbage_collector.md.md",
     "inbox/JS/202410041328_unreachable_definition.md.md",
-    "hubs/tryCatch.md.md",
-    "hubs/operator.md.md",
-    "inbox/JS/202410052028_difference_for_in_of.md.md",
-    "inbox/JS/202410052009_for_of_use.md.md",
-    "inbox/JS/202410051940_for_in_note.md",
-    "inbox/JS/202410051944_obj_is_use_case.md.md",
-    "hubs/loop.md.md",
-    "inbox/JS/202410021646_create_object_with_prototype.md",
-    "hubs/string.md.md",
-    "inbox/JS/202410051746_why_have_primitive_data_type.md.md",
-    "inbox/JS/202410051738_why_primitive_string_can_use_stringObj_method.md.md",
-    "inbox/JS/202410051723_object_is_compare_to_equal.md.md",
-    "inbox/JS/202410051644_NaN_in_strict_equality.md.md",
-    "inbox/JS/202410051652_well_known_symbol.md.md",
-    "inbox/JS/202410051656_string_match_method.md.md",
-    "template/templateTemp.md",
-    "hubs/array.md.md",
-    "hubs/BigInt.md.md",
+    "inbox/JS/202410061733_lexical_definition.md",
+    "inbox/JS/202410062305_lexical_env_definition.md",
+    "inbox/JS/202410062324_closure_definition.md",
+    "hubs/closure.md",
+    "inbox/JS/202410061848_new_function_use_case.md",
+    "inbox/JS/202410061849_new_function_definition.md",
+    "inbox/JS/202410062240_this_in_function.md",
+    "inbox/JS/202410062250_memory_leaked_case.md",
+    "hubs/lexical_env.md",
+    "inbox/JS/202410061117_why_use_arrowFunc_in_callbackFunc.md",
+    "zettels/JS/hoisting/202410021455_hoisting_global.md.md",
+    "inbox/JS/202410061636_immediately_invoked_function_use_case.md",
+    "inbox/JS/202410061108_this_in_arrow_function.md",
+    "inbox/JS/202410061053_this_no_bounding.md",
+    "hubs/this.md.md",
+    "hubs/arrow_function.md.md",
+    "inbox/JS/202410040836_disadvantage_of_map.md.md",
+    "hubs/constructor.md.md",
+    "inbox/JS/202410040831_when_should_use_obj_over_map.md.md",
+    "inbox/JS/202410040859_duplicate_value_forEach_set.md.md",
+    "inbox/JS/202410061021_default_param_scope.md.md",
+    "[[202410021456_hoisting_variable_var.md]].md",
     "zettels/JS/prototype",
     "zettels/JS/hoisting",
     "zettels/JS",
