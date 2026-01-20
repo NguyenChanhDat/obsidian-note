@@ -1,0 +1,181 @@
+{
+  "main": {
+    "id": "75a7a0a9d77346c3",
+    "type": "split",
+    "children": [
+      {
+        "id": "c9a5d05f1c4eba6c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ca771644a1e2020d",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "9fb7073160bff1b4",
+    "type": "split",
+    "children": [
+      {
+        "id": "4b8a406273d23ddb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7a500bd2012c52f2",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "8924573514cbac88",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#hoisting",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "1677dec81ffd376f",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 263.5
+  },
+  "right": {
+    "id": "a79af3fa43a5f34f",
+    "type": "split",
+    "children": [
+      {
+        "id": "71f819044828bce9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9c6491dcdf959e89",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "21b78c10f0a40a19",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d85c338a807f83cd",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "a56ee4f3cdc34977",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "templater-obsidian:Templater": false
+    }
+  },
+  "active": "ca771644a1e2020d",
+  "lastOpenFiles": [
+    "inbox/JS/202410070013_closure_use_case.md",
+    "inbox/JS/202410061918_lexical_env_garbage_collector.md",
+    "inbox/JS/202410041138_obj_in_dataStructure_garbage_collector.md.md",
+    "inbox/JS/202410041328_unreachable_definition.md.md",
+    "inbox/JS/202410061733_lexical_definition.md",
+    "inbox/JS/202410062305_lexical_env_definition.md",
+    "inbox/JS/202410062324_closure_definition.md",
+    "hubs/closure.md",
+    "inbox/JS/202410061848_new_function_use_case.md",
+    "inbox/JS/202410061849_new_function_definition.md",
+    "inbox/JS/202410062240_this_in_function.md",
+    "inbox/JS/202410062250_memory_leaked_case.md",
+    "hubs/lexical_env.md",
+    "inbox/JS/202410061117_why_use_arrowFunc_in_callbackFunc.md",
+    "zettels/JS/hoisting/202410021455_hoisting_global.md.md",
+    "inbox/JS/202410061636_immediately_invoked_function_use_case.md",
+    "inbox/JS/202410061108_this_in_arrow_function.md",
+    "inbox/JS/202410061053_this_no_bounding.md",
+    "hubs/this.md.md",
+    "hubs/arrow_function.md.md",
+    "inbox/JS/202410040836_disadvantage_of_map.md.md",
+    "hubs/constructor.md.md",
+    "inbox/JS/202410040831_when_should_use_obj_over_map.md.md",
+    "inbox/JS/202410040859_duplicate_value_forEach_set.md.md",
+    "inbox/JS/202410061021_default_param_scope.md.md",
+    "[[202410021456_hoisting_variable_var.md]].md",
+    "zettels/JS/prototype",
+    "zettels/JS/hoisting",
+    "zettels/JS",
+    "inbox/JS",
+    "Untitled",
+    "template",
+    "inbox",
+    "zettels",
+    "hubs",
+    "Module1/JS roadmap/Untitled"
+  ]
+}
