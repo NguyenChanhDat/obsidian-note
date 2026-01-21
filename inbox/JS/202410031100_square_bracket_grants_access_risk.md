@@ -2,7 +2,7 @@
 
 
 ##### id: 202410031100
-##### hubs: [[javascript.md]], [[object.md]], [[security.md]]
+##### hubs: [[javascript.md]], [[object.md]], [[obsidian-note-master/hubs/security.md]]
 ##### source:  https://github.com/eslint-community/eslint-plugin-security/blob/main/docs/the-dangers-of-square-bracket-notation.md
 
 

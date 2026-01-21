@@ -2,7 +2,7 @@
 
 
 ##### id: 202410031108_map_over_object_security
-##### hubs: [[map.md]], [[javascript.md]], [[object.md]], [[security.md]]
+##### hubs: [[map.md]], [[javascript.md]], [[object.md]], [[obsidian-note-master/hubs/security.md]]
 ##### source:
 
 
